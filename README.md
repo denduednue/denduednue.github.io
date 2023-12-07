@@ -1,4 +1,4 @@
-Welcome to TheGAMErepo
+# Welcome to TheGAMErepo
 
 TheGAMErepo is a Repo with a lot of games all in HTML code!
 
