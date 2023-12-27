@@ -11,7 +11,8 @@
     cursor: pointer;
 }
 .readmebutton {
-    background-color: #000000; /* Green */
+    background-color: #000000; 
+    padding: 15px 100px;
 }
 .ngonbutton {
     background-color: #008080; /* Green */
