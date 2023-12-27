@@ -1,17 +1,5 @@
-.readmebutton {
-    background-color: #000000; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 200px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-.ngonbutton {
-    background-color: #008080; /* Green */
+.button {
+    background-color: #800000; /* Green */
     border: black;
     color: white;
     padding: 15px 32px;
@@ -21,4 +9,10 @@
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+}
+.readmebutton {
+    background-color: #000000; /* Green */
+}
+.ngonbutton {
+    background-color: #008080; /* Green */
 }
