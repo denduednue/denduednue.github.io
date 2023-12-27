@@ -15,5 +15,8 @@
     padding: 15px 100px;
 }
 .ngonbutton {
-    background-color: #008080; /* Green */
+    background-color: #008080; 
+}
+.snakebutton {
+    background-color: #4CAF50; 
 }
