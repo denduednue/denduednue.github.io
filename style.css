@@ -11,6 +11,7 @@
     cursor: pointer;
 }
 .ngonbutton {
+    background-color: #008080; /* Green */
     border: black;
     color: white;
     padding: 15px 32px;
