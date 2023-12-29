@@ -21,9 +21,9 @@ class snake {
         for (let i = 0; i < 50; i++)
             this.v[i] = { x: this.x, y: this.y };
         this.sn_im = new Image();
-        this.sn_im.src = "images/head.png";
+        this.sn_im.src = "img/head.png";
         this.bd_im = new Image();
-        this.bd_im.src = "images/body/" + Math.floor(Math.random() * 999999) % Nball + ".png";
+        this.bd_im.src = "img/body/" + Math.floor(Math.random() * 999999) % Nball + ".png";
     }
 
     update() {
